@@ -1,4 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Hüseyin Çinibulak!  
+**Computer Engineer | Software Test Specialist Candidate | Full-time Learner**
+
+---
+
+## 🧑‍💻 About Me  
+- 🎓 A **Computer Engineering** graduate with a passion for technology and quality assurance.  
+- 💻 I have worked on projects as a **Software Developer** and **Software Test Specialist**
+
+  ---
+
+## 🌐 Connect With Me  
+- [LinkedIn](https://www.linkedin.com/in/huseyin-cinibulak/)  
+
+---
+
+## 📫 How to Reach Me  
+- Email: huseyincnblk@gmail.com  
+
+---
+
+> "Excellence in software testing lies in mastering the process."  
+
 
 <!--
 **hsyncnblk/hsyncnblk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
