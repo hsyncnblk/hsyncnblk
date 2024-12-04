@@ -1,23 +1,16 @@
 ## 👋 Hi, I'm Hüseyin Çinibulak!  
 **Computer Engineer | Software Test Specialist Candidate | Full-time Learner**
 
----
-
 ### 🧑‍💻 About Me  
 - 🎓 A **Computer Engineering** graduate with a passion for technology and quality assurance.  
 - 💻 I have worked on projects as a **Software Developer** and **Software Test Specialist**
 
-  ---
-
 ### 🌐 Connect With Me  
 - [LinkedIn](https://www.linkedin.com/in/huseyin-cinibulak/)  
 
----
 
 ### 📫 How to Reach Me  
 - Email: huseyincnblk@gmail.com  
-
----
 
 > "Testing leads to failure, and failure leads to understanding."
 
