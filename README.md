@@ -19,7 +19,7 @@
 
 ---
 
-> "Excellence in software testing lies in mastering the process."  
+> "Testing leads to failure, and failure leads to understanding."
 
 
 <!--
