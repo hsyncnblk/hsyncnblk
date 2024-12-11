@@ -6,7 +6,7 @@
 - 💻 I have worked on projects as a **Software Developer** and **Software Test Specialist**
 
 ### 🌐 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/huseyin-cinibulak/)  
+- [LinkedIn](https://www.linkedin.com/in/h%C3%BCseyin-%C3%A7inibulak-077466202/)
 
 
 ### 📫 How to Reach Me  
