@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Hüseyin Çinibulak!  
-**Computer Engineer | Software Test Specialist Candidate | Full-time Learner**
+**Computer Engineer | Software Test Engineer | Full-time Learner**
 
 ### 🧑‍💻 About Me  
 - 🎓 A **Computer Engineering** graduate with a passion for technology and quality assurance.  
